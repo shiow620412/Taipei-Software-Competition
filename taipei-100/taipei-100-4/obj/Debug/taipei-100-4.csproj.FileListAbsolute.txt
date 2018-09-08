@@ -1,0 +1,9 @@
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\bin\Debug\taipei-100-4.exe.config
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\bin\Debug\taipei-100-4.exe
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\bin\Debug\taipei-100-4.pdb
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\obj\Debug\taipei-100-4.csprojResolveAssemblyReference.cache
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\obj\Debug\taipei_100_4.Form1.resources
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\obj\Debug\taipei_100_4.Properties.Resources.resources
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\obj\Debug\taipei-100-4.csproj.GenerateResource.Cache
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\obj\Debug\taipei-100-4.exe
+D:\GitHub\Taipei-Software-Competition\taipei-100\taipei-100-4\obj\Debug\taipei-100-4.pdb

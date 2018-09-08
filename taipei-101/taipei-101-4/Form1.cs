@@ -16,8 +16,7 @@ namespace taipei_101_4
         public Form1()
         {
             InitializeComponent();
-            
-          
+            web.DocumentText = @"<script>function calc(e){return eval(e);} </script>";
             List<Button> btn = Controls.OfType<Button>().ToList();
             btn.ForEach(x =>
             {
@@ -30,8 +29,7 @@ namespace taipei_101_4
         }
 
         private void button18_Click(object sender, EventArgs e)
-        {
-            web.DocumentText = @"<script>function calc(e){return eval(e);} </script>";
+        {            
             var obj = web.Document.InvokeScript("calc",new object[] { textBox1.Text});
             if (obj != null)            
                 File.WriteAllText(@".\b.txt", $"{textBox1.Text} = {obj}");            

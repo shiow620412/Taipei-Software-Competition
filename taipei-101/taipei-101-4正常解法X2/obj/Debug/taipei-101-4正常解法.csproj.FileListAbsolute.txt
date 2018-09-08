@@ -1,0 +1,9 @@
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\bin\Debug\taipei-101-4正常解法.exe.config
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\bin\Debug\taipei-101-4正常解法.exe
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\bin\Debug\taipei-101-4正常解法.pdb
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\obj\Debug\taipei-101-4正常解法.csprojResolveAssemblyReference.cache
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\obj\Debug\taipei_101_4正常解法.Properties.Resources.resources
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\obj\Debug\taipei-101-4正常解法.csproj.GenerateResource.Cache
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\obj\Debug\taipei-101-4正常解法.exe
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\obj\Debug\taipei-101-4正常解法.pdb
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4正常解法\obj\Debug\taipei_101_4正常解法.Form1.resources

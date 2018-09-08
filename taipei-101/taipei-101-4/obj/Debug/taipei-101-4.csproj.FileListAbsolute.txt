@@ -6,3 +6,4 @@ D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4\obj\Debug\taipei_1
 D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4\obj\Debug\taipei-101-4.csproj.GenerateResource.Cache
 D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4\obj\Debug\taipei-101-4.exe
 D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4\obj\Debug\taipei-101-4.pdb
+D:\GitHub\Taipei-Software-Competition\taipei-101\taipei-101-4\obj\Debug\taipei-101-4.csprojResolveAssemblyReference.cache
