@@ -5,3 +5,4 @@ D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei_106_3_2.Propert
 D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.csproj.GenerateResource.Cache
 D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.exe
 D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.pdb
+D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.csprojResolveAssemblyReference.cache

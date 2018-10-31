@@ -17,7 +17,7 @@ namespace Taipei_106_3_2
             InitializeComponent();
 
         }
-        int scale = 10;
+        int scale = 1;
         void rePaint()
         {
          
@@ -39,8 +39,8 @@ namespace Taipei_106_3_2
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            pictureBox1.Width = 1600*scale;
-            pictureBox1.Height = 880*scale;
+            pictureBox1.Width = 1600*1/2;
+            pictureBox1.Height = 880*1/2;
             rePaint();            
         }
 
@@ -169,8 +169,9 @@ namespace Taipei_106_3_2
                 if (result < 880 && result > -1)
                 {
                     bmp.SetPixel(i, result, Color.Red);
-                    p.Add(new Point(i, result));
+                   
                 }
+                p.Add(new Point(i, result));
 
             }
             g.DrawLines(Pens.Red, p.ToArray());
