@@ -6,11 +6,3 @@ D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.csproj.
 D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.exe
 D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.pdb
 D:\Contestant\北軟賽前練習\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.csprojResolveAssemblyReference.cache
-C:\Users\DavidHsu\Documents\GitHub\Taipei-Software-Competition\taipei-106\Taipei-106-3-2\bin\Debug\Taipei-106-3-2.exe.config
-C:\Users\DavidHsu\Documents\GitHub\Taipei-Software-Competition\taipei-106\Taipei-106-3-2\bin\Debug\Taipei-106-3-2.exe
-C:\Users\DavidHsu\Documents\GitHub\Taipei-Software-Competition\taipei-106\Taipei-106-3-2\bin\Debug\Taipei-106-3-2.pdb
-C:\Users\DavidHsu\Documents\GitHub\Taipei-Software-Competition\taipei-106\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.csprojResolveAssemblyReference.cache
-C:\Users\DavidHsu\Documents\GitHub\Taipei-Software-Competition\taipei-106\Taipei-106-3-2\obj\Debug\Taipei_106_3_2.Properties.Resources.resources
-C:\Users\DavidHsu\Documents\GitHub\Taipei-Software-Competition\taipei-106\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.csproj.GenerateResource.Cache
-C:\Users\DavidHsu\Documents\GitHub\Taipei-Software-Competition\taipei-106\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.exe
-C:\Users\DavidHsu\Documents\GitHub\Taipei-Software-Competition\taipei-106\Taipei-106-3-2\obj\Debug\Taipei-106-3-2.pdb
