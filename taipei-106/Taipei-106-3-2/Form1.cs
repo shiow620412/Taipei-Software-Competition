@@ -39,8 +39,8 @@ namespace Taipei_106_3_2
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            pictureBox1.Width = 1600*1/2;
-            pictureBox1.Height = 880*1/2;
+            pictureBox1.Width = 1600*scale;
+            pictureBox1.Height = 880*scale;
             rePaint();            
         }
 
