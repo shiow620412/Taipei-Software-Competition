@@ -1,0 +1,12 @@
+C:\林聖祐_Contestant\林聖祐_Q3\bin\Debug\林聖祐_Q3.exe.config
+C:\林聖祐_Contestant\林聖祐_Q3\bin\Debug\林聖祐_Q3.exe
+C:\林聖祐_Contestant\林聖祐_Q3\bin\Debug\林聖祐_Q3.pdb
+C:\林聖祐_Contestant\林聖祐_Q3\obj\Debug\林聖祐_Q3.Form1.resources
+C:\林聖祐_Contestant\林聖祐_Q3\obj\Debug\林聖祐_Q3.Properties.Resources.resources
+C:\林聖祐_Contestant\林聖祐_Q3\obj\Debug\林聖祐_Q3.csproj.GenerateResource.Cache
+C:\林聖祐_Contestant\林聖祐_Q3\obj\Debug\林聖祐_Q3.exe
+C:\林聖祐_Contestant\林聖祐_Q3\obj\Debug\林聖祐_Q3.pdb
+C:\林聖祐_Contestant\林聖祐_Q3\obj\Debug\林聖祐_Q3.csprojResolveAssemblyReference.cache
+D:\GitHub\Taipei-Software-Competition\taipei-107\林聖祐_Q3\bin\Debug\林聖祐_Q3.exe.config
+D:\GitHub\Taipei-Software-Competition\taipei-107\林聖祐_Q3\obj\Debug\林聖祐_Q3.exe
+D:\GitHub\Taipei-Software-Competition\taipei-107\林聖祐_Q3\obj\Debug\林聖祐_Q3.pdb

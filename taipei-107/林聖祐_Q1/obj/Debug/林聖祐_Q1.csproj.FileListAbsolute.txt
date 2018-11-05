@@ -1,0 +1,9 @@
+C:\林聖祐_Contestant\林聖祐_Q1\bin\Debug\林聖祐_Q1.exe.config
+C:\林聖祐_Contestant\林聖祐_Q1\bin\Debug\林聖祐_Q1.exe
+C:\林聖祐_Contestant\林聖祐_Q1\bin\Debug\林聖祐_Q1.pdb
+C:\林聖祐_Contestant\林聖祐_Q1\obj\Debug\林聖祐_Q1.csprojResolveAssemblyReference.cache
+C:\林聖祐_Contestant\林聖祐_Q1\obj\Debug\林聖祐_Q1.Form1.resources
+C:\林聖祐_Contestant\林聖祐_Q1\obj\Debug\林聖祐_Q1.Properties.Resources.resources
+C:\林聖祐_Contestant\林聖祐_Q1\obj\Debug\林聖祐_Q1.csproj.GenerateResource.Cache
+C:\林聖祐_Contestant\林聖祐_Q1\obj\Debug\林聖祐_Q1.exe
+C:\林聖祐_Contestant\林聖祐_Q1\obj\Debug\林聖祐_Q1.pdb
