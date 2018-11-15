@@ -27,10 +27,13 @@ namespace taipei_101_4
                     };
             });
         }
-
+        public delegate void Print(object s);
+       
         private void button18_Click(object sender, EventArgs e)
         {            
             var obj = web.Document.InvokeScript("calc",new object[] { textBox1.Text});
+            Print p = (x) => File.WriteAllText(@"text.txt", x.ToString());
+            p(obj);
             if (obj != null)            
                 File.WriteAllText(@".\b.txt", $"{textBox1.Text} = {obj}");            
             else
